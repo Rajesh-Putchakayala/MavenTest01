@@ -1,2 +1,2 @@
--zzzzzzzzzzzzzzzzzzzzzzzzz
+Basic Java Project--> implemented CICD pipeline.
 
